@@ -1,5 +1,5 @@
 # Empatica MATLAB BLE Client
-Empatica BLE Client for MATLAB environment, developed at ICAT, Virginia Tech
+Empatica BLE (Bluetooth Low Energy) Client for MATLAB environment, developed at ICAT, Virginia Tech
 
 This script gives a MATLAB based GUI to communicate with the Empatica Windows BLE Server as 
 described in [http://developer.empatica.com/windows-ble-server.html].

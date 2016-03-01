@@ -1,4 +1,4 @@
-# EmpaticaMatlabBLEClient
+# Empatica MATLAB BLE Client
 Empatica BLE Client for MATLAB environment, developed at ICAT, Virginia Tech
 
 This script gives a MATLAB based GUI to communicate with the Empatica Windows BLE Server as 

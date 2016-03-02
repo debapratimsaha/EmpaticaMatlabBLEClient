@@ -318,7 +318,8 @@ function EmpaticaMatlabBLEClient()
                 % Change button text
                 LogButtonHdl.String = 'Stop';
                 
-                % Create and write to file
+                % Create dir and write to file
+                if ~exist('data','dir') mkdir data; end
                 a=datestr(now,'yyyy-mm-dd-HH-MM-SS'); 
                 filename=strcat('.\data\recording_',a);
                 fileID = fopen(filename,'a+');

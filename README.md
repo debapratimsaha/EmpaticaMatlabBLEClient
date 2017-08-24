@@ -9,11 +9,16 @@ This code was developed as a part of a research project that resulted in the fol
 @inproceedings{saha2017affective,  
      title={Affective Feedback in a Virtual Reality based Intelligent Supermarket},  
      author={Saha, Deba Pratim and Martin, Thomas L. and Knapp, R. Benjamin},  
-     booktitle={Adjunct Proceedings of UbiComp 2017, ACM Joint Conference on Pervasive and Ubiquitous Computing, Maui, Hawai'i, USA},  
+     booktitle={Adjunct Proceedings of UbiComp 2017, ACM Joint Conference on Pervasive and Ubiquitous Computing,
+                Maui, Hawai'i, USA},  
      year={2017},  
      organization={ACM}  
 }
 ```
+### User Interface
+The user interface is simple and looks like this:
+
+<img src="EmpaticaMatlabBLEClientScreenShot.PNG" height="400">
 
 
 ## How to use:
